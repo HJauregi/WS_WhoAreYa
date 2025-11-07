@@ -1,0 +1,6543 @@
+{
+  "count": 20,
+  "filters": {
+    "season": "2025"
+  },
+  "competition": {
+    "id": 2021,
+    "name": "Premier League",
+    "code": "PL",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/PL.png"
+  },
+  "season": {
+    "id": 2403,
+    "startDate": "2025-08-15",
+    "endDate": "2026-05-24",
+    "currentMatchday": 11,
+    "winner": null
+  },
+  "teams": [
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 57,
+      "name": "Arsenal FC",
+      "shortName": "Arsenal",
+      "tla": "ARS",
+      "crest": "https://crests.football-data.org/57.png",
+      "address": "75 Drayton Park London N5 1BU",
+      "website": "http://www.arsenal.com",
+      "founded": 1886,
+      "clubColors": "Red / White",
+      "venue": "Emirates Stadium",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        },
+        {
+          "id": 2001,
+          "name": "UEFA Champions League",
+          "code": "CL",
+          "type": "CUP",
+          "emblem": "https://crests.football-data.org/CL.png"
+        }
+      ],
+      "coach": {
+        "id": 179744,
+        "firstName": "",
+        "lastName": "Mikel Arteta",
+        "name": "Mikel Arteta",
+        "dateOfBirth": "1982-03-26",
+        "nationality": "Spain",
+        "contract": {
+          "start": "2019-12",
+          "until": "2027-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 3189,
+          "name": "Kepa Arrizabalaga",
+          "birthDate": "1994-10-03",
+          "nationality": "Spain",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 4832,
+          "name": "David Raya",
+          "birthDate": "1995-09-15",
+          "nationality": "Spain",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 171455,
+          "name": "Tommy Setford",
+          "birthDate": "2006-03-13",
+          "nationality": "England",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 270668,
+          "name": "Aleksei Fedorushchenko",
+          "birthDate": "2005-09-28",
+          "nationality": "Russia",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 285128,
+          "name": "Max Dowman",
+          "birthDate": "2009-12-31",
+          "nationality": "England",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 285598,
+          "name": "Andre Harriman-Annous",
+          "birthDate": "2007-12-27",
+          "nationality": "England",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 244120,
+          "name": "Myles Lewis-Skelly",
+          "birthDate": "2006-09-26",
+          "nationality": "England",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 188476,
+          "name": "Ethan Nwaneri",
+          "birthDate": "2007-03-21",
+          "nationality": "England",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 172839,
+          "name": "Cristhian Mosquera",
+          "birthDate": "2004-06-27",
+          "nationality": "Spain",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 167720,
+          "name": "Noni Madueke",
+          "birthDate": "2002-03-10",
+          "nationality": "England",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 133512,
+          "name": "Riccardo Calafiori",
+          "birthDate": "2002-05-19",
+          "nationality": "Italy",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 125674,
+          "name": "Piero Hincapié",
+          "birthDate": "2002-01-09",
+          "nationality": "Ecuador",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 115035,
+          "name": "Martín Zubimendi",
+          "birthDate": "1999-02-02",
+          "nationality": "Spain",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 99813,
+          "name": "Bukayo Saka",
+          "birthDate": "2001-09-05",
+          "nationality": "England",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 98816,
+          "name": "Jurrien Timber",
+          "birthDate": "2001-06-17",
+          "nationality": "Netherlands",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 80171,
+          "name": "William Saliba",
+          "birthDate": "2001-03-24",
+          "nationality": "France",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 61450,
+          "name": "Martinelli",
+          "birthDate": "2001-06-18",
+          "nationality": "Brazil",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 24102,
+          "name": "Christian Nørgaard",
+          "birthDate": "1994-03-10",
+          "nationality": "Denmark",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 23128,
+          "name": "Gabriel",
+          "birthDate": "1997-12-19",
+          "nationality": "Brazil",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8984,
+          "name": "Leandro Trossard",
+          "birthDate": "1994-12-04",
+          "nationality": "Belgium",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 8279,
+          "name": "Viktor Gyökeres",
+          "birthDate": "1998-06-04",
+          "nationality": "Sweden",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 8215,
+          "name": "Declan Rice",
+          "birthDate": "1999-01-14",
+          "nationality": "England",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 7935,
+          "name": "Mikel Merino",
+          "birthDate": "1996-06-22",
+          "nationality": "Spain",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 7427,
+          "name": "Martin Ødegaard",
+          "birthDate": "1998-12-17",
+          "nationality": "Norway",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 6154,
+          "name": "Ben White",
+          "birthDate": "1997-10-08",
+          "nationality": "England",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 4032,
+          "name": "Eberechi Eze",
+          "birthDate": "1998-06-29",
+          "nationality": "England",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 3236,
+          "name": "Gabriel Jesus",
+          "birthDate": "1997-04-03",
+          "nationality": "Brazil",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 171,
+          "name": "Kai Havertz",
+          "birthDate": "1999-06-11",
+          "nationality": "Germany",
+          "teamId": 57,
+          "leagueId": 2021,
+          "position": "FW"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-02-10T19:48:56Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 58,
+      "name": "Aston Villa FC",
+      "shortName": "Aston Villa",
+      "tla": "AVL",
+      "crest": "https://crests.football-data.org/58.png",
+      "address": "Villa Park Birmingham B6 6HE",
+      "website": "http://www.avfc.co.uk",
+      "founded": 1872,
+      "clubColors": "Claret / Sky Blue",
+      "venue": "Villa Park",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        },
+        {
+          "id": 2146,
+          "name": "UEFA Europa League",
+          "code": "EL",
+          "type": "CUP",
+          "emblem": "https://crests.football-data.org/EL.png"
+        }
+      ],
+      "coach": {
+        "id": 11616,
+        "firstName": "",
+        "lastName": "Unai Emery",
+        "name": "Unai Emery",
+        "dateOfBirth": "1971-11-03",
+        "nationality": "Spain",
+        "contract": {
+          "start": "2022-11",
+          "until": "2029-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 3141,
+          "name": "Emiliano Martínez",
+          "birthDate": "1992-09-02",
+          "nationality": "Argentina",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 7675,
+          "name": "Marco Bizot",
+          "birthDate": "1991-03-10",
+          "nationality": "Netherlands",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 204460,
+          "name": "James Wright",
+          "birthDate": "2004-12-02",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 244962,
+          "name": "Sam Proctor",
+          "birthDate": "2006-12-21",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 286821,
+          "name": "Russ Oakley",
+          "birthDate": "2008-09-16",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 270628,
+          "name": "Ben Broggio",
+          "birthDate": "2007-01-29",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 270631,
+          "name": "Aidan Borland",
+          "birthDate": "2007-04-25",
+          "nationality": "Scotland",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 270633,
+          "name": "Jamaldeen Jimoh",
+          "birthDate": "2006-10-02",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 274024,
+          "name": "Bradley Burrowes",
+          "birthDate": "2008-03-04",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 33109,
+          "name": "Pau Torres",
+          "birthDate": "1997-01-16",
+          "nationality": "Spain",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 31941,
+          "name": "Emiliano Buendía",
+          "birthDate": "1996-12-25",
+          "nationality": "Argentina",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 11644,
+          "name": "Matty Cash",
+          "birthDate": "1997-08-07",
+          "nationality": "Poland",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8346,
+          "name": "Boubacar Kamara",
+          "birthDate": "1999-11-23",
+          "nationality": "France",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 8235,
+          "name": "Tyrone Mings",
+          "birthDate": "1993-03-13",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7817,
+          "name": "Ross Barkley",
+          "birthDate": "1993-12-05",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 7457,
+          "name": "Donyell Malen",
+          "birthDate": "1999-01-19",
+          "nationality": "Netherlands",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 6317,
+          "name": "Ezri Konsa",
+          "birthDate": "1998-04-06",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 4444,
+          "name": "Ollie Watkins",
+          "birthDate": "1995-12-30",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 3658,
+          "name": "Youri Tielemans",
+          "birthDate": "1997-05-07",
+          "nationality": "Belgium",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 3492,
+          "name": "Victor Nilsson-Lindelöf",
+          "birthDate": "1994-07-17",
+          "nationality": "Sweden",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3359,
+          "name": "Lucas Digne",
+          "birthDate": "1993-07-20",
+          "nationality": "France",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 146,
+          "name": "Jadon Sancho",
+          "birthDate": "2000-03-25",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 204428,
+          "name": "Travis Patterson",
+          "birthDate": "2005-10-06",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 203594,
+          "name": "Andrés Garcia",
+          "birthDate": "2003-02-07",
+          "nationality": "Spain",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 172899,
+          "name": "Lamare Bogarde",
+          "birthDate": "2004-01-05",
+          "nationality": "Netherlands",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 131120,
+          "name": "Ian Maatsen",
+          "birthDate": "2002-03-10",
+          "nationality": "Netherlands",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 128710,
+          "name": "Evann Guessand",
+          "birthDate": "2001-07-01",
+          "nationality": "France",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 124824,
+          "name": "Harvey Elliott",
+          "birthDate": "2003-04-04",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 114024,
+          "name": "Amadou Onana",
+          "birthDate": "2001-08-16",
+          "nationality": "Belgium",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 82140,
+          "name": "Morgan Rogers",
+          "birthDate": "2002-07-26",
+          "nationality": "England",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 34646,
+          "name": "John McGinn",
+          "birthDate": "1994-10-18",
+          "nationality": "Scotland",
+          "teamId": 58,
+          "leagueId": 2021,
+          "position": "MF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-04-03T16:22:14Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 61,
+      "name": "Chelsea FC",
+      "shortName": "Chelsea",
+      "tla": "CHE",
+      "crest": "https://crests.football-data.org/61.png",
+      "address": "Fulham Road London SW6 1HS",
+      "website": "http://www.chelseafc.com",
+      "founded": 1905,
+      "clubColors": "Royal Blue / White",
+      "venue": "Stamford Bridge",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        },
+        {
+          "id": 2001,
+          "name": "UEFA Champions League",
+          "code": "CL",
+          "type": "CUP",
+          "emblem": "https://crests.football-data.org/CL.png"
+        }
+      ],
+      "coach": {
+        "id": 172279,
+        "firstName": "Enzo",
+        "lastName": "Maresca",
+        "name": "Enzo Maresca",
+        "dateOfBirth": "1980-02-10",
+        "nationality": "Italy",
+        "contract": {
+          "start": "2024-07",
+          "until": "2029-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 135555,
+          "name": "Robert Sánchez",
+          "birthDate": "1997-11-18",
+          "nationality": "Spain",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 137544,
+          "name": "Gabriel Slonina",
+          "birthDate": "2004-05-15",
+          "nationality": "USA",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 153828,
+          "name": "Filip Jörgensen",
+          "birthDate": "2002-04-16",
+          "nationality": "Denmark",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 246715,
+          "name": "Max Merrick",
+          "birthDate": "2005-11-10",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 246743,
+          "name": "Ted Curd",
+          "birthDate": "2006-02-14",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 277888,
+          "name": "Landon Emenalo",
+          "birthDate": "2008-01-18",
+          "nationality": "USA",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 276866,
+          "name": "Reggie Walsh",
+          "birthDate": "2008-10-20",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 244778,
+          "name": "Estevao",
+          "birthDate": "2006-04-24",
+          "nationality": "Brazil",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 272058,
+          "name": "Shumaira Mheuka",
+          "birthDate": "2007-10-20",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 287945,
+          "name": "Ryan Kavuma-McQueen",
+          "birthDate": "2009-01-01",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 166366,
+          "name": "Andrey Santos",
+          "birthDate": "2004-05-03",
+          "nationality": "Brazil",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 165314,
+          "name": "Dario Essugo",
+          "birthDate": "2005-03-14",
+          "nationality": "Portugal",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 152498,
+          "name": "Malo Gusto",
+          "birthDate": "2003-05-19",
+          "nationality": "France",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 151095,
+          "name": "Liam Delap",
+          "birthDate": "2003-02-08",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 144892,
+          "name": "Cole Palmer",
+          "birthDate": "2002-05-06",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 121103,
+          "name": "Moisés Caicedo",
+          "birthDate": "2001-11-02",
+          "nationality": "Ecuador",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 103125,
+          "name": "João Pedro",
+          "birthDate": "2001-09-26",
+          "nationality": "Brazil",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 102603,
+          "name": "Enzo Fernández",
+          "birthDate": "2001-01-17",
+          "nationality": "Argentina",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 98978,
+          "name": "Mykhailo Mudryk",
+          "birthDate": "2001-01-05",
+          "nationality": "Ukraine",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 56628,
+          "name": "Reece James",
+          "birthDate": "1999-12-08",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 15863,
+          "name": "Cucurella",
+          "birthDate": "1998-07-22",
+          "nationality": "Spain",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8545,
+          "name": "Wesley Fofana",
+          "birthDate": "2000-12-17",
+          "nationality": "France",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7880,
+          "name": "Tosin Adarabioyo",
+          "birthDate": "1997-09-24",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7810,
+          "name": "Trevoh Chalobah",
+          "birthDate": "1999-07-05",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3329,
+          "name": "Raheem Sterling",
+          "birthDate": "1994-12-08",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 2074,
+          "name": "Pedro Neto",
+          "birthDate": "2000-03-09",
+          "nationality": "Portugal",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 813,
+          "name": "Axel Disasi",
+          "birthDate": "1998-03-11",
+          "nationality": "France",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 250436,
+          "name": "Tyrique George",
+          "birthDate": "2006-02-04",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 249320,
+          "name": "Josh Acheampong",
+          "birthDate": "2006-05-05",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 247243,
+          "name": "Ollie Harrison",
+          "birthDate": "2007-08-07",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 207109,
+          "name": "Marc Guiu",
+          "birthDate": "2006-01-04",
+          "nationality": "Spain",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 189477,
+          "name": "Jorrel Hato",
+          "birthDate": "2006-03-07",
+          "nationality": "Netherlands",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 184273,
+          "name": "Facundo Buonanotte",
+          "birthDate": "2004-12-23",
+          "nationality": "Argentina",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 181901,
+          "name": "Alejandro Garnacho",
+          "birthDate": "2004-07-01",
+          "nationality": "Argentina",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 179460,
+          "name": "Jamie Bynoe-Gittens",
+          "birthDate": "2004-08-08",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 172738,
+          "name": "Romeo Lavia",
+          "birthDate": "2004-01-06",
+          "nationality": "Belgium",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 170440,
+          "name": "Levi Colwill",
+          "birthDate": "2003-02-26",
+          "nationality": "England",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 170426,
+          "name": "Benoît Badiashile",
+          "birthDate": "2001-03-26",
+          "nationality": "France",
+          "teamId": 61,
+          "leagueId": 2021,
+          "position": "DF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-02-10T19:24:40Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 62,
+      "name": "Everton FC",
+      "shortName": "Everton",
+      "tla": "EVE",
+      "crest": "https://crests.football-data.org/62.png",
+      "address": "Goodison Park Liverpool L4 4EL",
+      "website": "http://www.evertonfc.com",
+      "founded": 1878,
+      "clubColors": "Blue / White",
+      "venue": "Goodison Park",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        }
+      ],
+      "coach": {
+        "id": 11734,
+        "firstName": "David",
+        "lastName": "Moyes",
+        "name": "David Moyes",
+        "dateOfBirth": "1963-04-25",
+        "nationality": "Scotland",
+        "contract": {
+          "start": "2025-01",
+          "until": "2026-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 3309,
+          "name": "Jordan Pickford",
+          "birthDate": "1994-03-07",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 6180,
+          "name": "Thomas King",
+          "birthDate": "1995-03-09",
+          "nationality": "Wales",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 82135,
+          "name": "Mark Travers",
+          "birthDate": "1999-05-18",
+          "nationality": "Ireland",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 160451,
+          "name": "Harry Tyrer",
+          "birthDate": "2001-12-06",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 246476,
+          "name": "Adam Aznou",
+          "birthDate": "2006-06-02",
+          "nationality": "Morocco",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 244819,
+          "name": "Elijah Campbell",
+          "birthDate": "2004-08-02",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 218525,
+          "name": "Tyler Dibling",
+          "birthDate": "2006-02-17",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 171995,
+          "name": "Thierno Barry",
+          "birthDate": "2000-01-12",
+          "nationality": "France",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 169326,
+          "name": "Tim Iroegbunam",
+          "birthDate": "2002-08-12",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 156552,
+          "name": "Merlin Röhl",
+          "birthDate": "2002-07-05",
+          "nationality": "Germany",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 140269,
+          "name": "Carlos Alcaraz",
+          "birthDate": "2002-11-30",
+          "nationality": "Argentina",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 140194,
+          "name": "Kiernan Dewsbury Hall",
+          "birthDate": "1998-09-06",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 138174,
+          "name": "Nathan Patterson",
+          "birthDate": "2001-10-16",
+          "nationality": "Scotland",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 131569,
+          "name": "Jake O'Brien",
+          "birthDate": "2001-05-15",
+          "nationality": "Ireland",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 125044,
+          "name": "Beto",
+          "birthDate": "1998-01-31",
+          "nationality": "Portugal",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 114120,
+          "name": "Jarrad Branthwaite",
+          "birthDate": "2002-06-27",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 101076,
+          "name": "James Garner",
+          "birthDate": "2001-03-13",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 94091,
+          "name": "Iliman Ndiaye",
+          "birthDate": "1999-07-22",
+          "nationality": "Senegal",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 16165,
+          "name": "Vitalii Mykolenko",
+          "birthDate": "1999-05-29",
+          "nationality": "Ukraine",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 11623,
+          "name": "Dwight McNeil",
+          "birthDate": "1999-11-22",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 7836,
+          "name": "Séamus Coleman",
+          "birthDate": "1988-10-11",
+          "nationality": "Ireland",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7829,
+          "name": "Michael Keane",
+          "birthDate": "1993-01-11",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3895,
+          "name": "Jack Grealish",
+          "birthDate": "1995-09-10",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 3627,
+          "name": "Idrissa Gana Guèye",
+          "birthDate": "1989-09-26",
+          "nationality": "Senegal",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 3316,
+          "name": "James Tarkowski",
+          "birthDate": "1992-11-19",
+          "nationality": "England",
+          "teamId": 62,
+          "leagueId": 2021,
+          "position": "DF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-02-10T19:47:42Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 63,
+      "name": "Fulham FC",
+      "shortName": "Fulham",
+      "tla": "FUL",
+      "crest": "https://crests.football-data.org/63.png",
+      "address": "Craven Cottage, Stevenage Road London SW6 6HH",
+      "website": "http://www.fulhamfc.com",
+      "founded": 1879,
+      "clubColors": "White / Black",
+      "venue": "Craven Cottage",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        }
+      ],
+      "coach": {
+        "id": 11579,
+        "firstName": "",
+        "lastName": "Marco Silva",
+        "name": "Marco Silva",
+        "dateOfBirth": "1977-07-12",
+        "nationality": "Portugal",
+        "contract": {
+          "start": "2021-07",
+          "until": "2026-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 3174,
+          "name": "Bernd Leno",
+          "birthDate": "1992-03-04",
+          "nationality": "Germany",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 8366,
+          "name": "Benjamin Lecomte",
+          "birthDate": "1991-04-26",
+          "nationality": "France",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 273201,
+          "name": "Sam Amissah",
+          "birthDate": "2007-03-07",
+          "nationality": "England",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 288548,
+          "name": "Seth Ridgeon",
+          "birthDate": "2008-09-12",
+          "nationality": "England",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 179122,
+          "name": "Kevin Santos",
+          "birthDate": "2003-01-04",
+          "nationality": "Brazil",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 217577,
+          "name": "Jonah Kusi-Asare",
+          "birthDate": "2007-07-04",
+          "nationality": "Sweden",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 246418,
+          "name": "Joshua King",
+          "birthDate": "2007-01-03",
+          "nationality": "England",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 146154,
+          "name": "Calvin Bassey",
+          "birthDate": "1999-12-31",
+          "nationality": "Nigeria",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 138036,
+          "name": "Rodrigo Muniz",
+          "birthDate": "2001-05-04",
+          "nationality": "Brazil",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 98750,
+          "name": "Jorge Cuenca",
+          "birthDate": "1999-11-17",
+          "nationality": "Spain",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 85570,
+          "name": "Emile Smith Rowe",
+          "birthDate": "2000-07-28",
+          "nationality": "England",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 33124,
+          "name": "Samuel Chukwueze",
+          "birthDate": "1999-05-22",
+          "nationality": "Nigeria",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 32938,
+          "name": "Saša Lukić",
+          "birthDate": "1996-08-13",
+          "nationality": "Serbia",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 11777,
+          "name": "Harry Wilson",
+          "birthDate": "1997-03-22",
+          "nationality": "Wales",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 8973,
+          "name": "Sander Berge",
+          "birthDate": "1998-02-14",
+          "nationality": "Norway",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 8460,
+          "name": "Kenny Tete",
+          "birthDate": "1995-10-09",
+          "nationality": "Netherlands",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8296,
+          "name": "Issa Diop",
+          "birthDate": "1997-01-09",
+          "nationality": "France",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 4221,
+          "name": "Adama Traoré",
+          "birthDate": "1996-01-25",
+          "nationality": "Spain",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 3995,
+          "name": "Harrison Reed",
+          "birthDate": "1995-01-27",
+          "nationality": "England",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 3965,
+          "name": "Tom Cairney",
+          "birthDate": "1991-01-20",
+          "nationality": "England",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 3959,
+          "name": "Ryan Sessegnon",
+          "birthDate": "2000-05-18",
+          "nationality": "England",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3927,
+          "name": "Antonee Robinson",
+          "birthDate": "1997-08-08",
+          "nationality": "USA",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3392,
+          "name": "Alex Iwobi",
+          "birthDate": "1996-05-03",
+          "nationality": "Nigeria",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 3305,
+          "name": "Raúl Jiménez",
+          "birthDate": "1991-05-05",
+          "nationality": "Mexico",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 2253,
+          "name": "Joachim Andersen",
+          "birthDate": "1996-05-31",
+          "nationality": "Denmark",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 1836,
+          "name": "Timothy Castagne",
+          "birthDate": "1995-12-05",
+          "nationality": "Belgium",
+          "teamId": 63,
+          "leagueId": 2021,
+          "position": "DF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2024-07-29T17:16:11Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 64,
+      "name": "Liverpool FC",
+      "shortName": "Liverpool",
+      "tla": "LIV",
+      "crest": "https://crests.football-data.org/64.png",
+      "address": "Anfield Road Liverpool L4 0TH",
+      "website": "http://www.liverpoolfc.tv",
+      "founded": 1892,
+      "clubColors": "Red / White",
+      "venue": "Anfield",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        },
+        {
+          "id": 2001,
+          "name": "UEFA Champions League",
+          "code": "CL",
+          "type": "CUP",
+          "emblem": "https://crests.football-data.org/CL.png"
+        }
+      ],
+      "coach": {
+        "id": 121014,
+        "firstName": "Arne",
+        "lastName": "Slot",
+        "name": "Arne Slot",
+        "dateOfBirth": "1978-09-17",
+        "nationality": "Netherlands",
+        "contract": {
+          "start": "2024-06",
+          "until": "2027-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 1795,
+          "name": "Alisson",
+          "birthDate": "1992-10-02",
+          "nationality": "Brazil",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 11629,
+          "name": "Freddie Woodman",
+          "birthDate": "1997-03-04",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 84506,
+          "name": "Giorgi Mamardashvili",
+          "birthDate": "2000-09-29",
+          "nationality": "Georgia",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 182236,
+          "name": "Armin Pecsi",
+          "birthDate": "2005-02-24",
+          "nationality": "Hungary",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 287947,
+          "name": "Kornel Miściur",
+          "birthDate": "2007-04-27",
+          "nationality": "Poland",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 186701,
+          "name": "Stefan Bajcetic",
+          "birthDate": "2004-10-22",
+          "nationality": "Spain",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 288621,
+          "name": "Wellity Lucky",
+          "birthDate": "2006-01-12",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 288622,
+          "name": "Carter Pinnington",
+          "birthDate": "2007-02-21",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 274726,
+          "name": "Kieran Morrison",
+          "birthDate": "2006-11-09",
+          "nationality": "Northern Ireland",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 286622,
+          "name": "Tommy Pilling",
+          "birthDate": "2004-09-14",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 288625,
+          "name": "Michael Laffey",
+          "birthDate": "2005-10-11",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 273453,
+          "name": "Rio Ngumoha",
+          "birthDate": "2008-08-29",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 274727,
+          "name": "Trent Doherty",
+          "birthDate": "2006-06-30",
+          "nationality": "Ireland",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 288617,
+          "name": "Keyrol Figueroa",
+          "birthDate": "2006-08-31",
+          "nationality": "USA",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 128954,
+          "name": "Jeremie Frimpong",
+          "birthDate": "2000-12-10",
+          "nationality": "Netherlands",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "Right Midfield"
+        },
+        {
+          "id": 124778,
+          "name": "Calvin Ramsay",
+          "birthDate": "2003-07-31",
+          "nationality": "Scotland",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 81793,
+          "name": "Ryan Gravenberch",
+          "birthDate": "2002-05-16",
+          "nationality": "Netherlands",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 45681,
+          "name": "Alexis Mac Allister",
+          "birthDate": "1998-12-24",
+          "nationality": "Argentina",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 19334,
+          "name": "Florian Wirtz",
+          "birthDate": "2003-05-03",
+          "nationality": "Germany",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 16347,
+          "name": "Dominik Szoboszlai",
+          "birthDate": "2000-10-25",
+          "nationality": "Hungary",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 9542,
+          "name": "Ibrahima Konaté",
+          "birthDate": "1999-05-25",
+          "nationality": "France",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7873,
+          "name": "Curtis Jones",
+          "birthDate": "2001-01-30",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 7869,
+          "name": "Virgil van Dijk",
+          "birthDate": "1991-07-08",
+          "nationality": "Netherlands",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7868,
+          "name": "Andrew Robertson",
+          "birthDate": "1994-03-11",
+          "nationality": "Scotland",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7862,
+          "name": "Joe Gomez",
+          "birthDate": "1997-05-23",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7459,
+          "name": "Cody Gakpo",
+          "birthDate": "1999-05-07",
+          "nationality": "Netherlands",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 6486,
+          "name": "Alexander Isak",
+          "birthDate": "1999-09-21",
+          "nationality": "Sweden",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 3754,
+          "name": "Mohamed Salah",
+          "birthDate": "1992-06-15",
+          "nationality": "Egypt",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 3269,
+          "name": "Wataru Endō",
+          "birthDate": "1993-02-09",
+          "nationality": "Japan",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 1780,
+          "name": "Federico Chiesa",
+          "birthDate": "1997-10-25",
+          "nationality": "Italy",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 248990,
+          "name": "Amara Nallo",
+          "birthDate": "2006-11-18",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 247657,
+          "name": "Jayden Danns",
+          "birthDate": "2006-01-16",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 230517,
+          "name": "Trey Nyoni",
+          "birthDate": "2007-06-30",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 192563,
+          "name": "Giovanni Leoni",
+          "birthDate": "2006-12-21",
+          "nationality": "Italy",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 175865,
+          "name": "Conor Bradley",
+          "birthDate": "2003-07-09",
+          "nationality": "Northern Ireland",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 171141,
+          "name": "Milos Kerkez",
+          "birthDate": "2003-11-07",
+          "nationality": "Hungary",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 157176,
+          "name": "Kaide Gordon",
+          "birthDate": "2004-10-05",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 152454,
+          "name": "Hugo Ekitike",
+          "birthDate": "2002-06-20",
+          "nationality": "France",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 135636,
+          "name": "Rhys Williams",
+          "birthDate": "2001-02-03",
+          "nationality": "England",
+          "teamId": 64,
+          "leagueId": 2021,
+          "position": "DF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-02-10T19:30:22Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 65,
+      "name": "Manchester City FC",
+      "shortName": "Man City",
+      "tla": "MCI",
+      "crest": "https://crests.football-data.org/65.png",
+      "address": "SportCity Manchester M11 3FF",
+      "website": "https://www.mancity.com",
+      "founded": 1880,
+      "clubColors": "Sky Blue / White",
+      "venue": "Etihad Stadium",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        },
+        {
+          "id": 2001,
+          "name": "UEFA Champions League",
+          "code": "CL",
+          "type": "CUP",
+          "emblem": "https://crests.football-data.org/CL.png"
+        }
+      ],
+      "coach": {
+        "id": 11603,
+        "firstName": "",
+        "lastName": "Pep Guardiola",
+        "name": "Pep Guardiola",
+        "dateOfBirth": "1971-01-18",
+        "nationality": "Spain",
+        "contract": {
+          "start": "2016-07",
+          "until": "2027-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 1731,
+          "name": "Gianluigi Donnarumma",
+          "birthDate": "1999-02-25",
+          "nationality": "Italy",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 3953,
+          "name": "Marcus Bettinelli",
+          "birthDate": "1992-05-24",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 6958,
+          "name": "Stefan Ortega Moreno",
+          "birthDate": "1992-11-06",
+          "nationality": "Germany",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 153874,
+          "name": "James Trafford",
+          "birthDate": "2002-10-10",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 270613,
+          "name": "Kaden Braithwaite",
+          "birthDate": "2008-03-25",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 286320,
+          "name": "Stephen Mfuni",
+          "birthDate": "2008-02-12",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 206743,
+          "name": "Nico O'Reilly",
+          "birthDate": "2005-03-21",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 286321,
+          "name": "Divine Mukasa",
+          "birthDate": "2007-08-22",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 286950,
+          "name": "Ryan McAidoo",
+          "birthDate": "2008-06-24",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 286773,
+          "name": "Jaden Heskey",
+          "birthDate": "2005-12-17",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 286775,
+          "name": "Reigan Heskey",
+          "birthDate": "2008-01-19",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 91512,
+          "name": "Matheus Nunes",
+          "birthDate": "1998-08-27",
+          "nationality": "Portugal",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 66896,
+          "name": "Omar Marmoush",
+          "birthDate": "1999-02-07",
+          "nationality": "Egypt",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 38101,
+          "name": "Erling Haaland",
+          "birthDate": "2000-07-21",
+          "nationality": "Norway",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 10183,
+          "name": "Rúben Dias",
+          "birthDate": "1997-05-14",
+          "nationality": "Portugal",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8642,
+          "name": "Rayan Aït Nouri",
+          "birthDate": "2001-06-06",
+          "nationality": "Algeria",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8240,
+          "name": "Nathan Aké",
+          "birthDate": "1995-02-18",
+          "nationality": "Netherlands",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7888,
+          "name": "Phil Foden",
+          "birthDate": "2000-05-28",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7696,
+          "name": "Tijjani Reijnders",
+          "birthDate": "1998-07-29",
+          "nationality": "Netherlands",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 4147,
+          "name": "Kalvin Phillips",
+          "birthDate": "1995-12-02",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 3313,
+          "name": "John Stones",
+          "birthDate": "1994-05-28",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3254,
+          "name": "Bernardo Silva",
+          "birthDate": "1994-08-10",
+          "nationality": "Portugal",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 3199,
+          "name": "Rodri",
+          "birthDate": "1996-06-22",
+          "nationality": "Spain",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 65,
+          "name": "Mateo Kovačić",
+          "birthDate": "1994-05-06",
+          "nationality": "Croatia",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 212868,
+          "name": "Abdukodir Khusanov",
+          "birthDate": "2004-02-29",
+          "nationality": "Uzbekistan",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 187202,
+          "name": "Rico Lewis",
+          "birthDate": "2004-11-21",
+          "nationality": "England",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 179716,
+          "name": "Oscar Bobb",
+          "birthDate": "2003-07-12",
+          "nationality": "Norway",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 171986,
+          "name": "Nico Gonzalez",
+          "birthDate": "2002-01-03",
+          "nationality": "Spain",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 146352,
+          "name": "Sávio",
+          "birthDate": "2004-04-10",
+          "nationality": "Brazil",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 133242,
+          "name": "Rayan Cherki",
+          "birthDate": "2003-08-17",
+          "nationality": "France",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 122266,
+          "name": "Joško Gvardiol",
+          "birthDate": "2002-01-23",
+          "nationality": "Croatia",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 99775,
+          "name": "Jeremy Doku",
+          "birthDate": "2002-05-27",
+          "nationality": "Belgium",
+          "teamId": 65,
+          "leagueId": 2021,
+          "position": "FW"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-02-10T19:48:37Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 66,
+      "name": "Manchester United FC",
+      "shortName": "Man United",
+      "tla": "MUN",
+      "crest": "https://crests.football-data.org/66.png",
+      "address": "Sir Matt Busby Way Manchester M16 0RA",
+      "website": "http://www.manutd.com",
+      "founded": 1878,
+      "clubColors": "Red / White",
+      "venue": "Old Trafford",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        }
+      ],
+      "coach": {
+        "id": 107164,
+        "firstName": "",
+        "lastName": "Rúben Amorim",
+        "name": "Ruben Amorim",
+        "dateOfBirth": "1985-01-27",
+        "nationality": "Portugal",
+        "contract": {
+          "start": "2024-11",
+          "until": "2027-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 8035,
+          "name": "Tom Heaton",
+          "birthDate": "1986-04-15",
+          "nationality": "England",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 29518,
+          "name": "Altay Bayındır",
+          "birthDate": "1998-04-14",
+          "nationality": "Turkey",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 129946,
+          "name": "Senne Lammens",
+          "birthDate": "2002-07-07",
+          "nationality": "Belgium",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 188291,
+          "name": "Tyler Fredricson",
+          "birthDate": "2005-02-23",
+          "nationality": "England",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 262921,
+          "name": "Diego León",
+          "birthDate": "2007-04-03",
+          "nationality": "Paraguay",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 275522,
+          "name": "Chido Obi-Martin",
+          "birthDate": "2007-11-29",
+          "nationality": "Denmark",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 247644,
+          "name": "Ayden Heaven",
+          "birthDate": "2006-09-22",
+          "nationality": "England",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 211559,
+          "name": "Patrick Dorgu",
+          "birthDate": "2004-10-26",
+          "nationality": "Denmark",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 190797,
+          "name": "Kobbie Mainoo",
+          "birthDate": "2005-04-19",
+          "nationality": "England",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 181933,
+          "name": "Leny Yoro",
+          "birthDate": "2005-11-13",
+          "nationality": "France",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 133584,
+          "name": "Amad Diallo",
+          "birthDate": "2002-07-11",
+          "nationality": "Ivory Coast",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 124244,
+          "name": "Benjamin Šeško",
+          "birthDate": "2003-05-31",
+          "nationality": "Slovenia",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 99731,
+          "name": "Joshua Zirkzee",
+          "birthDate": "2001-05-22",
+          "nationality": "Netherlands",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 46451,
+          "name": "Lisandro Martínez",
+          "birthDate": "1998-01-18",
+          "nationality": "Argentina",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 30842,
+          "name": "Matheus Cunha",
+          "birthDate": "1999-05-27",
+          "nationality": "Brazil",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 28549,
+          "name": "Manuel Ugarte",
+          "birthDate": "2001-04-11",
+          "nationality": "Uruguay",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 15905,
+          "name": "Diogo Dalot",
+          "birthDate": "1999-03-18",
+          "nationality": "Portugal",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8626,
+          "name": "Bryan Mbeumo",
+          "birthDate": "1999-08-07",
+          "nationality": "Cameroon",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7898,
+          "name": "Luke Shaw",
+          "birthDate": "1995-07-12",
+          "nationality": "England",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7599,
+          "name": "Mason Mount",
+          "birthDate": "1999-01-10",
+          "nationality": "England",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 7553,
+          "name": "Noussair Mazraoui",
+          "birthDate": "1997-11-14",
+          "nationality": "Morocco",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7549,
+          "name": "Matthijs de Ligt",
+          "birthDate": "1999-08-12",
+          "nationality": "Netherlands",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7467,
+          "name": "Tyrell Malacia",
+          "birthDate": "1999-08-17",
+          "nationality": "Netherlands",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3326,
+          "name": "Harry Maguire",
+          "birthDate": "1993-03-05",
+          "nationality": "England",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3257,
+          "name": "Bruno Fernandes",
+          "birthDate": "1994-09-08",
+          "nationality": "Portugal",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 3231,
+          "name": "Casemiro",
+          "birthDate": "1992-02-23",
+          "nationality": "Brazil",
+          "teamId": 66,
+          "leagueId": 2021,
+          "position": "MF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-02-10T19:27:46Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 67,
+      "name": "Newcastle United FC",
+      "shortName": "Newcastle",
+      "tla": "NEW",
+      "crest": "https://crests.football-data.org/67.png",
+      "address": "Sports Direct Arena Newcastle upon Tyne NE1 4ST",
+      "website": "http://www.nufc.co.uk",
+      "founded": 1881,
+      "clubColors": "Black / White",
+      "venue": "St. James' Park",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        },
+        {
+          "id": 2001,
+          "name": "UEFA Champions League",
+          "code": "CL",
+          "type": "CUP",
+          "emblem": "https://crests.football-data.org/CL.png"
+        }
+      ],
+      "coach": {
+        "id": 11594,
+        "firstName": "Eddie",
+        "lastName": "Howe",
+        "name": "Eddie Howe",
+        "dateOfBirth": "1977-11-29",
+        "nationality": "England",
+        "contract": {
+          "start": "2021-11",
+          "until": "2026-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 3310,
+          "name": "Nick Pope",
+          "birthDate": "1992-04-19",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 5048,
+          "name": "Mark Gillespie",
+          "birthDate": "1992-03-27",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 5530,
+          "name": "Aaron Ramsdale",
+          "birthDate": "1998-05-14",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 214426,
+          "name": "Max Thompson",
+          "birthDate": "2004-08-01",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 176852,
+          "name": "Lewis Hall",
+          "birthDate": "2004-09-08",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 133547,
+          "name": "Nick Woltemade",
+          "birthDate": "2002-02-14",
+          "nationality": "Germany",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 283375,
+          "name": "Seung-soo Park",
+          "birthDate": "2007-03-17",
+          "nationality": "South Korea",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 230364,
+          "name": "Alex Murphy",
+          "birthDate": "2004-06-25",
+          "nationality": "Ireland",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 191939,
+          "name": "Lewis Miley",
+          "birthDate": "2006-05-01",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 169324,
+          "name": "William Osula",
+          "birthDate": "2003-08-04",
+          "nationality": "Denmark",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 168712,
+          "name": "Valentino Livramento",
+          "birthDate": "2002-11-12",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 166376,
+          "name": "Anthony Elanga",
+          "birthDate": "2002-04-27",
+          "nationality": "Sweden",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 150776,
+          "name": "Harrison Ashby",
+          "birthDate": "2001-11-14",
+          "nationality": "Scotland",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 142732,
+          "name": "Malick Thiaw",
+          "birthDate": "2001-08-08",
+          "nationality": "Germany",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 111437,
+          "name": "Jacob Ramsey",
+          "birthDate": "2001-05-28",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 81082,
+          "name": "Sven Botman",
+          "birthDate": "2000-01-12",
+          "nationality": "Netherlands",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 10653,
+          "name": "Joelinton",
+          "birthDate": "1996-08-14",
+          "nationality": "Brazil",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 8076,
+          "name": "Harvey Barnes",
+          "birthDate": "1997-12-09",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7934,
+          "name": "Jacob Murphy",
+          "birthDate": "1995-02-24",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7919,
+          "name": "Jamaal Lascelles",
+          "birthDate": "1993-11-11",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7848,
+          "name": "Anthony Gordon",
+          "birthDate": "2001-02-24",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7798,
+          "name": "Joe Willock",
+          "birthDate": "1999-08-20",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 4870,
+          "name": "Dan Burn",
+          "birthDate": "1992-05-09",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3312,
+          "name": "Kieran Trippier",
+          "birthDate": "1990-09-19",
+          "nationality": "England",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 2563,
+          "name": "Sandro Tonali",
+          "birthDate": "2000-05-08",
+          "nationality": "Italy",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 1868,
+          "name": "Emil Krafth",
+          "birthDate": "1994-08-02",
+          "nationality": "Sweden",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 1684,
+          "name": "Bruno Guimarães",
+          "birthDate": "1997-11-16",
+          "nationality": "Brazil",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 612,
+          "name": "Yoane Wissa",
+          "birthDate": "1996-09-03",
+          "nationality": "DR Congo",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 88,
+          "name": "Fabian Schär",
+          "birthDate": "1991-12-20",
+          "nationality": "Switzerland",
+          "teamId": 67,
+          "leagueId": 2021,
+          "position": "DF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-09-28T18:51:07Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 71,
+      "name": "Sunderland AFC",
+      "shortName": "Sunderland",
+      "tla": "SUN",
+      "crest": "https://crests.football-data.org/71.png",
+      "address": "The Sunderland Stadium of Light Sunderland SR5 1SU",
+      "website": "http://www.safc.com",
+      "founded": 1879,
+      "clubColors": "Red / White",
+      "venue": "Stadium of Light",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        }
+      ],
+      "coach": {
+        "id": 185195,
+        "firstName": "Régis",
+        "lastName": "Le Bris",
+        "name": "Regis Le Bris",
+        "dateOfBirth": "1975-12-06",
+        "nationality": "France",
+        "contract": {
+          "start": "2024-07",
+          "until": "2028-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 4292,
+          "name": "Simon Moore",
+          "birthDate": "1990-05-19",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 97249,
+          "name": "Anthony Patterson",
+          "birthDate": "2000-05-10",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 137691,
+          "name": "Robin Roefs",
+          "birthDate": "2003-01-17",
+          "nationality": "Netherlands",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 145505,
+          "name": "Blondy Noukeu",
+          "birthDate": "2001-09-17",
+          "nationality": "Cameroon",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 8204,
+          "name": "Arthur Masuaku",
+          "birthDate": "1993-11-07",
+          "nationality": "DR Congo",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 179695,
+          "name": "Leo Hjelde",
+          "birthDate": "2003-08-26",
+          "nationality": "Norway",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 182273,
+          "name": "Noah Sadiki",
+          "birthDate": "2004-12-17",
+          "nationality": "Belgium",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 285390,
+          "name": "Jenson Jones",
+          "birthDate": "2006-06-26",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 131135,
+          "name": "Jay Matete",
+          "birthDate": "2001-02-11",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 189892,
+          "name": "Timur Tuterov",
+          "birthDate": "2005-06-11",
+          "nationality": "Ukraine",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 192313,
+          "name": "Chemsdine Talbi",
+          "birthDate": "2005-05-09",
+          "nationality": "Belgium",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 249412,
+          "name": "Harrison Jones",
+          "birthDate": "2005-02-13",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 285389,
+          "name": "Jaydon Jones",
+          "birthDate": "2006-11-03",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 285392,
+          "name": "Jack Whittaker",
+          "birthDate": "2006-10-14",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 210066,
+          "name": "Ben Middlemas",
+          "birthDate": "2004-12-13",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 213255,
+          "name": "Ian Poveda",
+          "birthDate": "2000-02-09",
+          "nationality": "Colombia",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 166249,
+          "name": "Simon Adingra",
+          "birthDate": "2002-01-01",
+          "nationality": "Ivory Coast",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 165311,
+          "name": "Abdoullah Ba",
+          "birthDate": "2003-07-31",
+          "nationality": "France",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "Right Midfield"
+        },
+        {
+          "id": 161270,
+          "name": "Aji Alese",
+          "birthDate": "2001-01-17",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 148288,
+          "name": "Timothee Pembele",
+          "birthDate": "2002-09-09",
+          "nationality": "France",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 121109,
+          "name": "Daniel Ballard",
+          "birthDate": "1999-09-22",
+          "nationality": "Northern Ireland",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 117687,
+          "name": "Trai Hume",
+          "birthDate": "2002-03-18",
+          "nationality": "Northern Ireland",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 99664,
+          "name": "Enzo Le Fée",
+          "birthDate": "2000-02-03",
+          "nationality": "France",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 97535,
+          "name": "Brian Brobbey",
+          "birthDate": "2002-02-01",
+          "nationality": "Netherlands",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 83599,
+          "name": "Wilson Isidor",
+          "birthDate": "2000-08-27",
+          "nationality": "France",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 46491,
+          "name": "Omar Alderete",
+          "birthDate": "1996-12-26",
+          "nationality": "Paraguay",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 37094,
+          "name": "Reinildo",
+          "birthDate": "1994-01-21",
+          "nationality": "Mozambique",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8467,
+          "name": "Bertrand Traoré",
+          "birthDate": "1995-09-06",
+          "nationality": "Burkina Faso",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 8371,
+          "name": "Nordi Mukiele",
+          "birthDate": "1997-11-01",
+          "nationality": "France",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7468,
+          "name": "Lutsharel Geertruida",
+          "birthDate": "2000-07-18",
+          "nationality": "Netherlands",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 6259,
+          "name": "Luke O'Nien",
+          "birthDate": "1994-11-21",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3477,
+          "name": "Granit Xhaka",
+          "birthDate": "1992-09-27",
+          "nationality": "Switzerland",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 191889,
+          "name": "Ahmed Abdullahi",
+          "birthDate": "2004-06-19",
+          "nationality": "Nigeria",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 191461,
+          "name": "Joseph Anderson",
+          "birthDate": "2001-02-06",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 190817,
+          "name": "Chris Rigg",
+          "birthDate": "2007-06-18",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 178644,
+          "name": "Eliezer Mayenda",
+          "birthDate": "2005-05-08",
+          "nationality": "Spain",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 172275,
+          "name": "Romaine Mundle",
+          "birthDate": "2003-04-24",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 172127,
+          "name": "Dan Neil",
+          "birthDate": "2001-11-30",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 172123,
+          "name": "Dennis Cirkin",
+          "birthDate": "2002-04-06",
+          "nationality": "England",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 171876,
+          "name": "Habib Diarra",
+          "birthDate": "2004-01-03",
+          "nationality": "France",
+          "teamId": 71,
+          "leagueId": 2021,
+          "position": "MF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-02-19T09:12:07Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 73,
+      "name": "Tottenham Hotspur FC",
+      "shortName": "Tottenham",
+      "tla": "TOT",
+      "crest": "https://crests.football-data.org/73.png",
+      "address": "Bill Nicholson Way, 748 High Road London N17 0AP",
+      "website": "http://www.tottenhamhotspur.com",
+      "founded": 1882,
+      "clubColors": "Navy Blue / White",
+      "venue": "Tottenham Hotspur Stadium",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        },
+        {
+          "id": 2001,
+          "name": "UEFA Champions League",
+          "code": "CL",
+          "type": "CUP",
+          "emblem": "https://crests.football-data.org/CL.png"
+        }
+      ],
+      "coach": {
+        "id": 98287,
+        "firstName": "Thomas",
+        "lastName": "Frank",
+        "name": "Thomas Frank",
+        "dateOfBirth": "1973-10-09",
+        "nationality": "Denmark",
+        "contract": {
+          "start": "2025-07",
+          "until": "2028-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 3086,
+          "name": "Guglielmo Vicario",
+          "birthDate": "1996-10-07",
+          "nationality": "Italy",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 133229,
+          "name": "Brandon Austin",
+          "birthDate": "1999-01-08",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 255239,
+          "name": "Antonín Kinský",
+          "birthDate": "2003-03-13",
+          "nationality": "Czech Republic",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 274554,
+          "name": "Luca Gunter",
+          "birthDate": "2005-03-23",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 181193,
+          "name": "Kota Takai",
+          "birthDate": "2004-09-04",
+          "nationality": "Japan",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 272980,
+          "name": "Malachi Hardy",
+          "birthDate": "2008-03-10",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 283174,
+          "name": "Jun'ai Byfield",
+          "birthDate": "2008-12-06",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 288618,
+          "name": "James Rowswell",
+          "birthDate": "2006-07-13",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 272688,
+          "name": "Callum Olusesi",
+          "birthDate": "2007-03-11",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 274808,
+          "name": "Rio Kyerematen",
+          "birthDate": "2005-06-09",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 272687,
+          "name": "Luca Williams-Barnett",
+          "birthDate": "2008-10-01",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 286774,
+          "name": "Tynan Thompson",
+          "birthDate": "2008-04-17",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 289075,
+          "name": "Yusuf Akhamrich",
+          "birthDate": "2005-09-05",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 140432,
+          "name": "Radu Drăgușin",
+          "birthDate": "2002-02-03",
+          "nationality": "Romania",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 131177,
+          "name": "Mickey van de Ven",
+          "birthDate": "2001-04-19",
+          "nationality": "Netherlands",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 124694,
+          "name": "Brennan Johnson",
+          "birthDate": "2001-05-23",
+          "nationality": "Wales",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 81037,
+          "name": "Pedro Porro",
+          "birthDate": "1999-09-13",
+          "nationality": "Spain",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 80775,
+          "name": "Djed Spence",
+          "birthDate": "2000-08-09",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 77399,
+          "name": "Mohammed Kudus",
+          "birthDate": "2000-08-02",
+          "nationality": "Ghana",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 45735,
+          "name": "Christian Romero",
+          "birthDate": "1998-04-27",
+          "nationality": "Argentina",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 15884,
+          "name": "João Palhinha",
+          "birthDate": "1995-07-09",
+          "nationality": "Portugal",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 8708,
+          "name": "Randal Kolo Muani",
+          "birthDate": "1998-12-05",
+          "nationality": "France",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 8410,
+          "name": "Yves Bissouma",
+          "birthDate": "1996-08-30",
+          "nationality": "Mali",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 8133,
+          "name": "Richarlison",
+          "birthDate": "1997-05-10",
+          "nationality": "Brazil",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7994,
+          "name": "Ben Davies",
+          "birthDate": "1993-04-24",
+          "nationality": "Wales",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7878,
+          "name": "Dominic Solanke",
+          "birthDate": "1997-09-14",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 6655,
+          "name": "Kevin Danso",
+          "birthDate": "1998-09-19",
+          "nationality": "Austria",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3992,
+          "name": "James Maddison",
+          "birthDate": "1996-11-23",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 2041,
+          "name": "Rodrigo Bentancur",
+          "birthDate": "1997-06-25",
+          "nationality": "Uruguay",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 1859,
+          "name": "Dejan Kulusevski",
+          "birthDate": "2000-04-25",
+          "nationality": "Sweden",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 193622,
+          "name": "Lucas Bergvall",
+          "birthDate": "2006-02-02",
+          "nationality": "Sweden",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 184999,
+          "name": "Wilson Odobert",
+          "birthDate": "2004-11-28",
+          "nationality": "France",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 177040,
+          "name": "Archie Gray",
+          "birthDate": "2006-03-12",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 171977,
+          "name": "Mathys Tel",
+          "birthDate": "2005-04-27",
+          "nationality": "France",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 170391,
+          "name": "Pape Sarr",
+          "birthDate": "2002-09-14",
+          "nationality": "Senegal",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 170378,
+          "name": "Destiny Udogie",
+          "birthDate": "2002-11-28",
+          "nationality": "Italy",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 156616,
+          "name": "Dane Scarlett",
+          "birthDate": "2004-03-24",
+          "nationality": "England",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 148289,
+          "name": "Xavi Simons",
+          "birthDate": "2003-04-21",
+          "nationality": "Netherlands",
+          "teamId": 73,
+          "leagueId": 2021,
+          "position": "MF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2024-05-11T21:39:03Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 76,
+      "name": "Wolverhampton Wanderers FC",
+      "shortName": "Wolverhampton",
+      "tla": "WOL",
+      "crest": "https://crests.football-data.org/76.png",
+      "address": "Waterloo Road Wolverhampton WV1 4QR",
+      "website": "http://www.wolves.co.uk",
+      "founded": 1877,
+      "clubColors": "Black / Gold",
+      "venue": "Molineux Stadium",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        }
+      ],
+      "coach": {
+        "id": null,
+        "firstName": null,
+        "lastName": null,
+        "name": null,
+        "dateOfBirth": null,
+        "nationality": null,
+        "contract": {
+          "start": null,
+          "until": null
+        }
+      },
+      "squad": [
+        {
+          "id": 3884,
+          "name": "Sam Johnstone",
+          "birthDate": "1993-03-25",
+          "nationality": "England",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 4418,
+          "name": "Daniel Bentley",
+          "birthDate": "1993-07-13",
+          "nationality": "England",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 15899,
+          "name": "José Sá",
+          "birthDate": "1993-01-17",
+          "nationality": "Portugal",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 205467,
+          "name": "David Wolfe",
+          "birthDate": "2002-04-23",
+          "nationality": "Norway",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 22306,
+          "name": "Jhon Arias",
+          "birthDate": "1997-09-21",
+          "nationality": "Colombia",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 272431,
+          "name": "Fer López",
+          "birthDate": "2004-05-24",
+          "nationality": "Spain",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 120981,
+          "name": "Toluwalas Arokodare",
+          "birthDate": "2000-11-23",
+          "nationality": "Nigeria",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 171027,
+          "name": "Jackson Tchatchoua",
+          "birthDate": "2002-06-22",
+          "nationality": "Cameroon",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 213269,
+          "name": "Jørgen Strand Larsen",
+          "birthDate": "2000-02-06",
+          "nationality": "Norway",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 276066,
+          "name": "Mateus Mané",
+          "birthDate": "2007-09-16",
+          "nationality": "Portugal",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 193014,
+          "name": "Enso Gonzalez",
+          "birthDate": "2005-01-20",
+          "nationality": "Paraguay",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 189575,
+          "name": "Nathan Fraser",
+          "birthDate": "2005-02-22",
+          "nationality": "England",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 157709,
+          "name": "Hugo Bueno",
+          "birthDate": "2002-09-18",
+          "nationality": "Spain",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 153570,
+          "name": "Yerson Mosquera",
+          "birthDate": "2001-05-02",
+          "nationality": "Colombia",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 151521,
+          "name": "Rodrigo Gomes",
+          "birthDate": "2003-07-07",
+          "nationality": "Portugal",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "Right Midfield"
+        },
+        {
+          "id": 149731,
+          "name": "Emmanuel Agbadou",
+          "birthDate": "1997-06-17",
+          "nationality": "Ivory Coast",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 145538,
+          "name": "André",
+          "birthDate": "2001-07-16",
+          "nationality": "Brazil",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 138034,
+          "name": "João Gomes",
+          "birthDate": "2001-02-12",
+          "nationality": "Brazil",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 135345,
+          "name": "Tawanda Chirewa",
+          "birthDate": "2003-10-11",
+          "nationality": "England",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 102223,
+          "name": "Toti Gomes",
+          "birthDate": "1999-01-16",
+          "nationality": "Portugal",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 102044,
+          "name": "Ki-Jana Hoever",
+          "birthDate": "2002-01-18",
+          "nationality": "Netherlands",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 62493,
+          "name": "Ladislav Krejčí",
+          "birthDate": "1999-04-20",
+          "nationality": "Czech Republic",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 34754,
+          "name": "Marshall Munetsi",
+          "birthDate": "1996-06-22",
+          "nationality": "Zimbabwe",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 32767,
+          "name": "Santiago Bueno",
+          "birthDate": "1998-11-09",
+          "nationality": "Uruguay",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 4081,
+          "name": "Matt Doherty",
+          "birthDate": "1992-01-16",
+          "nationality": "Ireland",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3354,
+          "name": "Hwang Heechan",
+          "birthDate": "1996-01-26",
+          "nationality": "South Korea",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 788,
+          "name": "Jean-Ricner Bellegarde",
+          "birthDate": "1998-06-27",
+          "nationality": "France",
+          "teamId": 76,
+          "leagueId": 2021,
+          "position": "MF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2024-07-29T17:16:22Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 328,
+      "name": "Burnley FC",
+      "shortName": "Burnley",
+      "tla": "BUR",
+      "crest": "https://crests.football-data.org/328.png",
+      "address": "Harry Potts Way Burnley BB10 4BX",
+      "website": "http://www.burnleyfootballclub.com",
+      "founded": 1881,
+      "clubColors": "Claret / Sky Blue",
+      "venue": "Turf Moor",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        }
+      ],
+      "coach": {
+        "id": 3964,
+        "firstName": "Scott",
+        "lastName": "Parker",
+        "name": "Scott Parker",
+        "dateOfBirth": "1980-10-13",
+        "nationality": "England",
+        "contract": {
+          "start": "2024-07",
+          "until": "2027-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 7914,
+          "name": "Martin Dúbravka",
+          "birthDate": "1989-01-15",
+          "nationality": "Slovakia",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 62651,
+          "name": "Václav Hladký",
+          "birthDate": "1990-11-14",
+          "nationality": "Czech Republic",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 175800,
+          "name": "Max Weiss",
+          "birthDate": "2004-06-15",
+          "nationality": "Germany",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 124501,
+          "name": "Oliver Sonne",
+          "birthDate": "2000-11-10",
+          "nationality": "Denmark",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 190916,
+          "name": "Murray Campbell",
+          "birthDate": "2006-07-25",
+          "nationality": "Scotland",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 285393,
+          "name": "Marley Leuluai",
+          "birthDate": "2006-11-08",
+          "nationality": "England",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 192680,
+          "name": "Enock Agyei",
+          "birthDate": "2005-01-13",
+          "nationality": "Belgium",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 207566,
+          "name": "Mike Trésor",
+          "birthDate": "1999-05-28",
+          "nationality": "Belgium",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 213243,
+          "name": "Josh Laurent",
+          "birthDate": "1995-05-06",
+          "nationality": "England",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 285388,
+          "name": "Oliver Pimlott",
+          "birthDate": "2007-04-07",
+          "nationality": "England",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 286640,
+          "name": "Ellis Clark",
+          "birthDate": "2007-06-26",
+          "nationality": "Scotland",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 286650,
+          "name": "George Brierley",
+          "birthDate": "2007-11-20",
+          "nationality": "England",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 122313,
+          "name": "Zeki Amdouni",
+          "birthDate": "2000-12-04",
+          "nationality": "Switzerland",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 176952,
+          "name": "Jaydon Banel",
+          "birthDate": "2004-10-19",
+          "nationality": "Netherlands",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 286670,
+          "name": "Brandon Pouani",
+          "birthDate": "2007-12-10",
+          "nationality": "England",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 143054,
+          "name": "Armando Broja",
+          "birthDate": "2001-09-10",
+          "nationality": "Albania",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 67893,
+          "name": "Zian Flemming",
+          "birthDate": "1998-08-01",
+          "nationality": "Netherlands",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 37560,
+          "name": "Florentino",
+          "birthDate": "1999-08-19",
+          "nationality": "Portugal",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 34760,
+          "name": "Lyle Foster",
+          "birthDate": "2000-09-04",
+          "nationality": "South Africa",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 31560,
+          "name": "Hjalmar Ekdal",
+          "birthDate": "1998-10-21",
+          "nationality": "Sweden",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 11298,
+          "name": "Joe Worrall",
+          "birthDate": "1997-01-10",
+          "nationality": "England",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 9405,
+          "name": "Jacob Bruun Larsen",
+          "birthDate": "1998-09-19",
+          "nationality": "Denmark",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 8845,
+          "name": "Hannes Delcroix",
+          "birthDate": "1999-02-28",
+          "nationality": "Belgium",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8217,
+          "name": "Josh Cullen",
+          "birthDate": "1996-04-07",
+          "nationality": "Ireland",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 8054,
+          "name": "Ashley Barnes",
+          "birthDate": "1989-10-30",
+          "nationality": "England",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7980,
+          "name": "Connor Roberts",
+          "birthDate": "1995-09-23",
+          "nationality": "Wales",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 6678,
+          "name": "Louis Beyer",
+          "birthDate": "2000-05-19",
+          "nationality": "Germany",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3999,
+          "name": "Marcus Edwards",
+          "birthDate": "1998-12-03",
+          "nationality": "England",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 3894,
+          "name": "Axel Tuanzebe",
+          "birthDate": "1997-11-14",
+          "nationality": "DR Congo",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3311,
+          "name": "Kyle Walker",
+          "birthDate": "1990-05-28",
+          "nationality": "England",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 190547,
+          "name": "Bashir Humphreys",
+          "birthDate": "2003-03-15",
+          "nationality": "England",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 187219,
+          "name": "Quilindschy Hartman",
+          "birthDate": "2001-11-14",
+          "nationality": "Netherlands",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 177627,
+          "name": "Lucas Pires",
+          "birthDate": "2001-03-24",
+          "nationality": "Brazil",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 175784,
+          "name": "Maxime Estève",
+          "birthDate": "2002-05-26",
+          "nationality": "France",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 170394,
+          "name": "Loum Tchaouna",
+          "birthDate": "2003-09-08",
+          "nationality": "France",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 169325,
+          "name": "Hannibal Mejbri",
+          "birthDate": "2003-01-21",
+          "nationality": "Tunisia",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 153555,
+          "name": "Chimuanya Ugochukwu",
+          "birthDate": "2004-03-26",
+          "nationality": "France",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 150778,
+          "name": "Jaidon Anthony",
+          "birthDate": "1999-12-01",
+          "nationality": "England",
+          "teamId": 328,
+          "leagueId": 2021,
+          "position": "FW"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-02-10T19:24:11Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 341,
+      "name": "Leeds United FC",
+      "shortName": "Leeds United",
+      "tla": "LEE",
+      "crest": "https://crests.football-data.org/341.png",
+      "address": "Elland Road Leeds LS11 0ES",
+      "website": "http://www.leedsunited.com",
+      "founded": 1904,
+      "clubColors": "White / Blue",
+      "venue": "Elland Road",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        }
+      ],
+      "coach": {
+        "id": 11323,
+        "firstName": "Daniel",
+        "lastName": "Farke",
+        "name": "Daniel Farke",
+        "dateOfBirth": "1976-10-30",
+        "nationality": "Germany",
+        "contract": {
+          "start": "2023-07",
+          "until": "2027-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 1331,
+          "name": "Lucas Perri",
+          "birthDate": "1997-12-10",
+          "nationality": "Brazil",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 5315,
+          "name": "Alex Cairns",
+          "birthDate": "1993-01-04",
+          "nationality": "England",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 7913,
+          "name": "Karl Darlow",
+          "birthDate": "1990-10-08",
+          "nationality": "Wales",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 74831,
+          "name": "Illan Meslier",
+          "birthDate": "2000-03-02",
+          "nationality": "France",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 277983,
+          "name": "Harry Gray",
+          "birthDate": "2008-10-08",
+          "nationality": "England",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 180813,
+          "name": "Wilfried Gnonto",
+          "birthDate": "2003-11-05",
+          "nationality": "Italy",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 113262,
+          "name": "Brenden Aaronson",
+          "birthDate": "2000-10-22",
+          "nationality": "USA",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 75284,
+          "name": "Ilia Gruev",
+          "birthDate": "2000-05-06",
+          "nationality": "Bulgaria",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 74688,
+          "name": "Jaka Bijol",
+          "birthDate": "1999-02-05",
+          "nationality": "Slovenia",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 67978,
+          "name": "Joël Piroe",
+          "birthDate": "1999-08-02",
+          "nationality": "Netherlands",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 65843,
+          "name": "Anton Stach",
+          "birthDate": "1998-11-15",
+          "nationality": "Germany",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 49105,
+          "name": "Ao Tanaka",
+          "birthDate": "1998-09-10",
+          "nationality": "Japan",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 31531,
+          "name": "Gabriel Gudmundsson",
+          "birthDate": "1999-04-29",
+          "nationality": "Sweden",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 16058,
+          "name": "Noah Okafor",
+          "birthDate": "2000-05-24",
+          "nationality": "Switzerland",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 8847,
+          "name": "Sebastiaan Bornauw",
+          "birthDate": "1999-03-22",
+          "nationality": "Belgium",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8203,
+          "name": "Sam Byram",
+          "birthDate": "1993-09-16",
+          "nationality": "England",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7974,
+          "name": "Daniel James",
+          "birthDate": "1997-11-10",
+          "nationality": "Wales",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7892,
+          "name": "Lukas Nmecha",
+          "birthDate": "1998-12-14",
+          "nationality": "Germany",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7839,
+          "name": "Dominic Calvert-Lewin",
+          "birthDate": "1997-03-16",
+          "nationality": "England",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7815,
+          "name": "Ethan Ampadu",
+          "birthDate": "2000-09-14",
+          "nationality": "Wales",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 5714,
+          "name": "Joe Rodon",
+          "birthDate": "1997-10-22",
+          "nationality": "Wales",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 5613,
+          "name": "James Justin",
+          "birthDate": "1998-02-23",
+          "nationality": "England",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 4955,
+          "name": "Sean Longstaff",
+          "birthDate": "1997-10-30",
+          "nationality": "England",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 4220,
+          "name": "Jack Harrison",
+          "birthDate": "1996-11-20",
+          "nationality": "England",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 4184,
+          "name": "Jayden Bogle",
+          "birthDate": "2000-07-27",
+          "nationality": "England",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 4146,
+          "name": "Pascal Struijk",
+          "birthDate": "1999-08-11",
+          "nationality": "Netherlands",
+          "teamId": 341,
+          "leagueId": 2021,
+          "position": "DF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-02-10T19:27:14Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 351,
+      "name": "Nottingham Forest FC",
+      "shortName": "Nottingham",
+      "tla": "NOT",
+      "crest": "https://crests.football-data.org/351.png",
+      "address": "Pavilion Road, West Bridgeford Nottingham NG2 5GJ",
+      "website": "http://www.nottinghamforest.co.uk",
+      "founded": 1865,
+      "clubColors": "Red / White",
+      "venue": "The City Ground",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        },
+        {
+          "id": 2146,
+          "name": "UEFA Europa League",
+          "code": "EL",
+          "type": "CUP",
+          "emblem": "https://crests.football-data.org/EL.png"
+        }
+      ],
+      "coach": {
+        "id": 11584,
+        "firstName": "Sean",
+        "lastName": "Dyche",
+        "name": "Sean Dyche",
+        "dateOfBirth": "1971-06-28",
+        "nationality": "England",
+        "contract": {
+          "start": "2025-10",
+          "until": "2027-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 1299,
+          "name": "John",
+          "birthDate": "1996-02-13",
+          "nationality": "Brazil",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 3643,
+          "name": "Matz Sels",
+          "birthDate": "1992-02-26",
+          "nationality": "Belgium",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 3981,
+          "name": "Angus Gunn",
+          "birthDate": "1996-01-22",
+          "nationality": "Scotland",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 287984,
+          "name": "Keehan Willows",
+          "birthDate": "2005-10-01",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 179782,
+          "name": "Jair Paula",
+          "birthDate": "2005-03-07",
+          "nationality": "Brazil",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 289124,
+          "name": "Jack Thompson",
+          "birthDate": "2005-05-05",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 289125,
+          "name": "Ben Hammond",
+          "birthDate": "2004-10-02",
+          "nationality": "Wales",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 289122,
+          "name": "Jimmy Sinclair",
+          "birthDate": "2006-08-11",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 289123,
+          "name": "Archie Whitehall",
+          "birthDate": "2006-05-21",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 256339,
+          "name": "Igor Jesus",
+          "birthDate": "2001-02-25",
+          "nationality": "Brazil",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 287987,
+          "name": "Zyan Blake",
+          "birthDate": "2007-11-13",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 107330,
+          "name": "Elliot Anderson",
+          "birthDate": "2002-11-06",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 77641,
+          "name": "Dan Ndoye",
+          "birthDate": "2000-10-25",
+          "nationality": "Switzerland",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 46346,
+          "name": "Nicolás Domínguez",
+          "birthDate": "1998-06-28",
+          "nationality": "Argentina",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 33525,
+          "name": "Douglas Luiz",
+          "birthDate": "1998-05-09",
+          "nationality": "Brazil",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 9218,
+          "name": "Taiwo Awoniyi",
+          "birthDate": "1997-08-12",
+          "nationality": "Nigeria",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 8307,
+          "name": "Ibrahim Sangaré",
+          "birthDate": "1997-12-02",
+          "nationality": "Ivory Coast",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 8057,
+          "name": "Chris Wood",
+          "birthDate": "1991-12-07",
+          "nationality": "New Zealand",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7889,
+          "name": "Oleksandr Zinchenko",
+          "birthDate": "1996-12-15",
+          "nationality": "Ukraine",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7816,
+          "name": "Callum Hudson-Odoi",
+          "birthDate": "2000-11-07",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 5435,
+          "name": "Ryan Yates",
+          "birthDate": "1997-11-21",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 4091,
+          "name": "Morgan Gibbs-White",
+          "birthDate": "2000-01-27",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 4086,
+          "name": "Willy Boly",
+          "birthDate": "1991-02-03",
+          "nationality": "Ivory Coast",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3386,
+          "name": "Ola Aina",
+          "birthDate": "1996-10-08",
+          "nationality": "Nigeria",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 1775,
+          "name": "Nikola Milenković",
+          "birthDate": "1997-10-12",
+          "nationality": "Serbia",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 204483,
+          "name": "Zach Abbott",
+          "birthDate": "2006-05-13",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 192637,
+          "name": "Murillo",
+          "birthDate": "2002-07-04",
+          "nationality": "Brazil",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 191730,
+          "name": "Nicolò Savona",
+          "birthDate": "2003-03-19",
+          "nationality": "Italy",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 177477,
+          "name": "Omari Hutchinson",
+          "birthDate": "2003-10-29",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 172956,
+          "name": "James McAtee",
+          "birthDate": "2002-10-18",
+          "nationality": "England",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 151295,
+          "name": "Dilane Bakwa",
+          "birthDate": "2002-08-26",
+          "nationality": "France",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 133765,
+          "name": "Neco Williams",
+          "birthDate": "2001-04-13",
+          "nationality": "Wales",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 130668,
+          "name": "Arnaud Kalimuendo",
+          "birthDate": "2002-01-20",
+          "nationality": "France",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 119596,
+          "name": "Morato",
+          "birthDate": "2001-06-30",
+          "nationality": "Brazil",
+          "teamId": 351,
+          "leagueId": 2021,
+          "position": "DF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-07-26T17:53:21Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 354,
+      "name": "Crystal Palace FC",
+      "shortName": "Crystal Palace",
+      "tla": "CRY",
+      "crest": "https://crests.football-data.org/354.png",
+      "address": "Whitehorse Lane London SE25 6PU",
+      "website": "http://www.cpfc.co.uk",
+      "founded": 1905,
+      "clubColors": "Red / Blue",
+      "venue": "Selhurst Park",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        },
+        {
+          "id": 2154,
+          "name": "UEFA Conference League",
+          "code": "UCL",
+          "type": "CUP",
+          "emblem": "https://crests.football-data.org/UCL.png"
+        }
+      ],
+      "coach": {
+        "id": 10727,
+        "firstName": "Oliver",
+        "lastName": "Glasner",
+        "name": "Oliver Glasner",
+        "dateOfBirth": "1974-08-28",
+        "nationality": "Austria",
+        "contract": {
+          "start": "2024-02",
+          "until": "2026-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 5457,
+          "name": "Dean Henderson",
+          "birthDate": "1997-03-12",
+          "nationality": "England",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 6413,
+          "name": "Remi Matthews",
+          "birthDate": "1994-02-10",
+          "nationality": "England",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 8420,
+          "name": "Walter Benítez",
+          "birthDate": "1993-03-19",
+          "nationality": "Argentina",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 260271,
+          "name": "Jaydee Canvot",
+          "birthDate": "2006-07-29",
+          "nationality": "France",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 278973,
+          "name": "Rio Cardines",
+          "birthDate": "2006-01-07",
+          "nationality": "Trinidad & Tobago",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 180389,
+          "name": "Adam Wharton",
+          "birthDate": "2004-02-06",
+          "nationality": "England",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 180081,
+          "name": "Yeremy",
+          "birthDate": "2002-10-20",
+          "nationality": "Spain",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 270859,
+          "name": "Caleb Kporha",
+          "birthDate": "2006-07-15",
+          "nationality": "England",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 260763,
+          "name": "Chrisantus",
+          "birthDate": "2003-05-19",
+          "nationality": "Nigeria",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 190550,
+          "name": "Romain Esse",
+          "birthDate": "1999-02-06",
+          "nationality": "England",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 187401,
+          "name": "Kaden Rodney",
+          "birthDate": "2004-10-07",
+          "nationality": "England",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 152149,
+          "name": "Justin Devenny",
+          "birthDate": "2003-10-11",
+          "nationality": "Northern Ireland",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 150948,
+          "name": "Chadi Riad",
+          "birthDate": "2003-06-17",
+          "nationality": "Morocco",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 137068,
+          "name": "Tyrick Mitchell",
+          "birthDate": "1999-09-01",
+          "nationality": "England",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 131752,
+          "name": "Naouirou Ahamada",
+          "birthDate": "2002-03-29",
+          "nationality": "France",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 118489,
+          "name": "Marc Guéhi",
+          "birthDate": "2000-07-13",
+          "nationality": "England",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 99856,
+          "name": "Chris Richards",
+          "birthDate": "2000-03-28",
+          "nationality": "USA",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 82351,
+          "name": "Maxence Lacroix",
+          "birthDate": "2000-04-06",
+          "nationality": "France",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 74677,
+          "name": "Cheick Doucouré",
+          "birthDate": "2000-01-08",
+          "nationality": "Mali",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 22010,
+          "name": "Daniel Muñoz",
+          "birthDate": "1996-05-26",
+          "nationality": "Colombia",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 10208,
+          "name": "Borna Sosa",
+          "birthDate": "1998-01-21",
+          "nationality": "Croatia",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 8124,
+          "name": "Will Hughes",
+          "birthDate": "1995-04-17",
+          "nationality": "England",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 7863,
+          "name": "Nathaniel Clyne",
+          "birthDate": "1991-04-05",
+          "nationality": "England",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7800,
+          "name": "Eddie Nketiah",
+          "birthDate": "1999-05-30",
+          "nationality": "England",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 6716,
+          "name": "Daichi Kamada",
+          "birthDate": "1996-08-05",
+          "nationality": "Japan",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 3737,
+          "name": "Jefferson Lerma",
+          "birthDate": "1994-10-25",
+          "nationality": "Colombia",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 3638,
+          "name": "Ismaïla Sarr",
+          "birthDate": "1998-02-25",
+          "nationality": "Senegal",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 641,
+          "name": "Jean-Philippe Mateta",
+          "birthDate": "1997-06-28",
+          "nationality": "France",
+          "teamId": 354,
+          "leagueId": 2021,
+          "position": "FW"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-02-10T19:22:36Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 397,
+      "name": "Brighton & Hove Albion FC",
+      "shortName": "Brighton Hove",
+      "tla": "BHA",
+      "crest": "https://crests.football-data.org/397.png",
+      "address": "44 North Road Brighton & Hove BN1 1YR",
+      "website": "http://www.seagulls.co.uk",
+      "founded": 1898,
+      "clubColors": "Blue / White",
+      "venue": "The American Express Community Stadium",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        }
+      ],
+      "coach": {
+        "id": 65145,
+        "firstName": "Fabian",
+        "lastName": "Hürzeler",
+        "name": "Fabian Hürzeler",
+        "dateOfBirth": "1993-02-26",
+        "nationality": "Germany",
+        "contract": {
+          "start": "2024-07",
+          "until": "2027-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 4040,
+          "name": "Jason Steele",
+          "birthDate": "1990-08-18",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 126870,
+          "name": "Bart Verbruggen",
+          "birthDate": "2002-08-18",
+          "nationality": "Netherlands",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 140203,
+          "name": "Thomas McGill",
+          "birthDate": "2000-03-25",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 230048,
+          "name": "Nils Ramming",
+          "birthDate": "2007-03-28",
+          "nationality": "Sweden",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 142075,
+          "name": "Maxim De Cuyper",
+          "birthDate": "2000-12-22",
+          "nationality": "Belgium",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 277479,
+          "name": "Charlie Tasker",
+          "birthDate": "2006-02-24",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 277783,
+          "name": "Freddie Simmonds",
+          "birthDate": "2008-03-09",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 190925,
+          "name": "Tom Watson",
+          "birthDate": "2006-04-08",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 274914,
+          "name": "Joe Knight",
+          "birthDate": "2005-09-21",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 287852,
+          "name": "Nehemiah Oriola",
+          "birthDate": "2007-06-11",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 264300,
+          "name": "Charalampos Kostoulas",
+          "birthDate": "2007-05-30",
+          "nationality": "Greece",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 277782,
+          "name": "Harry Howell",
+          "birthDate": "2008-04-20",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 145613,
+          "name": "Yasin Ayari",
+          "birthDate": "2003-10-06",
+          "nationality": "Sweden",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 132707,
+          "name": "Kaoru Mitoma",
+          "birthDate": "1997-05-20",
+          "nationality": "Japan",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 98566,
+          "name": "Jan Paul van Hecke",
+          "birthDate": "2000-06-08",
+          "nationality": "Netherlands",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 97505,
+          "name": "Mats Wieffer",
+          "birthDate": "1999-11-16",
+          "nationality": "Netherlands",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 81189,
+          "name": "Georginio Rutter",
+          "birthDate": "2002-04-20",
+          "nationality": "France",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 9869,
+          "name": "Ferdi Kadıoğlu",
+          "birthDate": "1999-10-07",
+          "nationality": "Turkey",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8259,
+          "name": "Lewis Dunk",
+          "birthDate": "1991-11-21",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7861,
+          "name": "James Milner",
+          "birthDate": "1986-01-04",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 7547,
+          "name": "Joël Veltman",
+          "birthDate": "1992-01-15",
+          "nationality": "Netherlands",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 4228,
+          "name": "Adam Webster",
+          "birthDate": "1995-01-04",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3328,
+          "name": "Danny Welbeck",
+          "birthDate": "1990-11-26",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 846,
+          "name": "Olivier Boscagli",
+          "birthDate": "1997-11-18",
+          "nationality": "France",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 209504,
+          "name": "Stefanos Tzimas",
+          "birthDate": "2006-01-06",
+          "nationality": "Greece",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 191102,
+          "name": "Brajan Gruda",
+          "birthDate": "2004-05-31",
+          "nationality": "Germany",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 190851,
+          "name": "Jack Hinshelwood",
+          "birthDate": "2005-04-11",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 187482,
+          "name": "Yankubah Minteh",
+          "birthDate": "2004-07-22",
+          "nationality": "Gambia",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 178951,
+          "name": "Diego Gómez",
+          "birthDate": "2003-03-27",
+          "nationality": "Paraguay",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 178604,
+          "name": "Carlos Baleba",
+          "birthDate": "2004-01-03",
+          "nationality": "Cameroon",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 176720,
+          "name": "Diego Coppola",
+          "birthDate": "2003-12-28",
+          "nationality": "Italy",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 161365,
+          "name": "Solly March",
+          "birthDate": "1994-07-20",
+          "nationality": "England",
+          "teamId": 397,
+          "leagueId": 2021,
+          "position": "FW"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2024-07-29T17:18:23Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 402,
+      "name": "Brentford FC",
+      "shortName": "Brentford",
+      "tla": "BRE",
+      "crest": "https://crests.football-data.org/402.png",
+      "address": "Braemar Road Brentford TW8 0NT",
+      "website": "http://www.brentfordfc.co.uk",
+      "founded": 1889,
+      "clubColors": "Red / White / Black",
+      "venue": "Griffin Park",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        }
+      ],
+      "coach": {
+        "id": 193328,
+        "firstName": "Keith",
+        "lastName": "Andrews",
+        "name": "Keith Andrews",
+        "dateOfBirth": "1980-09-13",
+        "nationality": "Ireland",
+        "contract": {
+          "start": "2025-07",
+          "until": "2028-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 4419,
+          "name": "Ellery Balcombe",
+          "birthDate": "1999-10-15",
+          "nationality": "England",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 102046,
+          "name": "Caoimhin Kelleher",
+          "birthDate": "1998-11-23",
+          "nationality": "Ireland",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 144530,
+          "name": "Hákon Rafn Valdimarsson",
+          "birthDate": "2001-10-13",
+          "nationality": "Iceland",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 150464,
+          "name": "Matthew Cox",
+          "birthDate": "2003-05-02",
+          "nationality": "England",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 274963,
+          "name": "Julian Eyestone",
+          "birthDate": "2006-04-21",
+          "nationality": "USA",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 191077,
+          "name": "Romelle Donovan",
+          "birthDate": "1974-01-01",
+          "nationality": "England",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 175994,
+          "name": "Thiago Rodrigues",
+          "birthDate": "2001-06-26",
+          "nationality": "Brazil",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 138015,
+          "name": "Edmond-Paris Maghoma",
+          "birthDate": "2001-05-08",
+          "nationality": "England",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 123286,
+          "name": "Kevin Schade",
+          "birthDate": "2001-11-27",
+          "nationality": "Germany",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 115642,
+          "name": "Nathan Collins",
+          "birthDate": "2001-04-30",
+          "nationality": "Ireland",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 101910,
+          "name": "Keane Lewis-Potter",
+          "birthDate": "2001-02-22",
+          "nationality": "England",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 101111,
+          "name": "Aaron Hickey",
+          "birthDate": "2002-01-01",
+          "nationality": "Scotland",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 24238,
+          "name": "Mikkel Damsgaard",
+          "birthDate": "2000-07-03",
+          "nationality": "Denmark",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 24210,
+          "name": "Frank Onyeka",
+          "birthDate": "1998-01-01",
+          "nationality": "Nigeria",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 16068,
+          "name": "Kristoffer Ajer",
+          "birthDate": "1998-04-17",
+          "nationality": "Norway",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 10194,
+          "name": "Mathias Jensen",
+          "birthDate": "1996-01-01",
+          "nationality": "Denmark",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 10000,
+          "name": "Vitaly Janelt",
+          "birthDate": "1998-05-10",
+          "nationality": "Germany",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 7799,
+          "name": "Reiss Nelson",
+          "birthDate": "1999-12-10",
+          "nationality": "England",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 7796,
+          "name": "Josh Dasilva",
+          "birthDate": "1998-10-23",
+          "nationality": "England",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 7720,
+          "name": "Sepp van den Berg",
+          "birthDate": "2001-12-20",
+          "nationality": "Netherlands",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 4426,
+          "name": "Rico Henry",
+          "birthDate": "1997-07-08",
+          "nationality": "England",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 4334,
+          "name": "Ethan Pinnock",
+          "birthDate": "1993-05-29",
+          "nationality": "Jamaica",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 3320,
+          "name": "Jordan Henderson",
+          "birthDate": "1990-06-17",
+          "nationality": "England",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 249409,
+          "name": "Benjamin Arthur",
+          "birthDate": "2005-10-09",
+          "nationality": "England",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 214532,
+          "name": "Yunus Konak",
+          "birthDate": null,
+          "nationality": "Turkey",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 213296,
+          "name": "Gustavo Gomes",
+          "birthDate": "2005-11-20",
+          "nationality": "Brazil",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 204421,
+          "name": "Yegor Yarmolyuk",
+          "birthDate": "2004-03-01",
+          "nationality": "Ukraine",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 204348,
+          "name": "Michael Kayode",
+          "birthDate": "2004-07-10",
+          "nationality": "Italy",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 177305,
+          "name": "Dango Ouattara",
+          "birthDate": "2002-02-11",
+          "nationality": "Burkina Faso",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 171965,
+          "name": "Antoni Milambo",
+          "birthDate": "2005-04-03",
+          "nationality": "Netherlands",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 171099,
+          "name": "Myles Peart-Harris",
+          "birthDate": "2002-09-18",
+          "nationality": "England",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 151119,
+          "name": "Fabio Carvalho",
+          "birthDate": "2002-08-30",
+          "nationality": "Portugal",
+          "teamId": 402,
+          "leagueId": 2021,
+          "position": "MF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-04-03T16:24:00Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 563,
+      "name": "West Ham United FC",
+      "shortName": "West Ham",
+      "tla": "WHU",
+      "crest": "https://crests.football-data.org/563.png",
+      "address": "Queen Elizabeth Olympic Park, London London E20 2ST",
+      "website": "http://www.whufc.com",
+      "founded": 1895,
+      "clubColors": "Claret / Sky Blue",
+      "venue": "London Stadium",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        }
+      ],
+      "coach": {
+        "id": 11315,
+        "firstName": "",
+        "lastName": "Nuno Espírito Santo",
+        "name": "Nuno Espírito Santo",
+        "dateOfBirth": "1974-01-25",
+        "nationality": "Portugal",
+        "contract": {
+          "start": "2025-09",
+          "until": "2028-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 3357,
+          "name": "Alphonse Aréola",
+          "birthDate": "1993-02-27",
+          "nationality": "France",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 3526,
+          "name": "Łukasz Fabiański",
+          "birthDate": "1985-04-18",
+          "nationality": "Poland",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 97144,
+          "name": "Mads Hermansen",
+          "birthDate": "2000-07-11",
+          "nationality": "Denmark",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 205441,
+          "name": "El Hadji Diouf",
+          "birthDate": "2004-12-28",
+          "nationality": "Senegal",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 273157,
+          "name": "Ezra Mayers",
+          "birthDate": "2007-01-16",
+          "nationality": "England",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 219676,
+          "name": "Mohamadou Kante",
+          "birthDate": "2005-09-20",
+          "nationality": "France",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 248957,
+          "name": "George Earthy",
+          "birthDate": "2004-09-05",
+          "nationality": "England",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 207527,
+          "name": "Callum Marshall",
+          "birthDate": "2004-11-28",
+          "nationality": "Northern Ireland",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 192653,
+          "name": "Luis Guilherme",
+          "birthDate": "2006-02-09",
+          "nationality": "Brazil",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 188900,
+          "name": "Oliver Scarles",
+          "birthDate": "2005-12-12",
+          "nationality": "England",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 187216,
+          "name": "Mateus Fernandes",
+          "birthDate": "2004-07-10",
+          "nationality": "Portugal",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 179625,
+          "name": "Soungoutou Magassa",
+          "birthDate": "2003-10-08",
+          "nationality": "France",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 176597,
+          "name": "Freddie Potts",
+          "birthDate": "2003-09-12",
+          "nationality": "England",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 170617,
+          "name": "Andy Irving",
+          "birthDate": "2000-05-13",
+          "nationality": "Scotland",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 102193,
+          "name": "Crysencio Summerville",
+          "birthDate": "2001-10-30",
+          "nationality": "Netherlands",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 79903,
+          "name": "Jean-Clair Todibo",
+          "birthDate": "1999-12-30",
+          "nationality": "France",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 39104,
+          "name": "Guido Rodríguez",
+          "birthDate": "1994-04-12",
+          "nationality": "Argentina",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 25376,
+          "name": "Max Kilman",
+          "birthDate": "1997-05-23",
+          "nationality": "England",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 15742,
+          "name": "Tomáš Souček",
+          "birthDate": "1995-02-27",
+          "nationality": "Czech Republic",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 11414,
+          "name": "Jarrod Bowen",
+          "birthDate": "1996-01-01",
+          "nationality": "England",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 10777,
+          "name": "Igor",
+          "birthDate": "1998-02-07",
+          "nationality": "Brazil",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8251,
+          "name": "Callum Wilson",
+          "birthDate": "1992-02-27",
+          "nationality": "England",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 8158,
+          "name": "Aaron Wan-Bissaka",
+          "birthDate": "1997-11-26",
+          "nationality": "England",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 8088,
+          "name": "James Ward-Prowse",
+          "birthDate": "1994-11-01",
+          "nationality": "England",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 7995,
+          "name": "Kyle Walker-Peters",
+          "birthDate": "1997-04-13",
+          "nationality": "England",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7789,
+          "name": "Konstantinos Mavropanos",
+          "birthDate": "1997-12-11",
+          "nationality": "Greece",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 1543,
+          "name": "Lucas Paquetá",
+          "birthDate": "1997-08-27",
+          "nationality": "Brazil",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 304,
+          "name": "Niclas Füllkrug",
+          "birthDate": "1993-02-09",
+          "nationality": "Germany",
+          "teamId": 563,
+          "leagueId": 2021,
+          "position": "FW"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2022-02-19T08:09:25Z"
+    },
+    {
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+      },
+      "id": 1044,
+      "name": "AFC Bournemouth",
+      "shortName": "Bournemouth",
+      "tla": "BOU",
+      "crest": "https://crests.football-data.org/bournemouth.png",
+      "address": "Dean Court, Kings Park Bournemouth BH7 7AF",
+      "website": "http://www.afcb.co.uk",
+      "founded": 1890,
+      "clubColors": "Red / Black",
+      "venue": "Vitality Stadium",
+      "runningCompetitions": [
+        {
+          "id": 2021,
+          "name": "Premier League",
+          "code": "PL",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/PL.png"
+        }
+      ],
+      "coach": {
+        "id": 79707,
+        "firstName": "Andoni",
+        "lastName": "Iraola",
+        "name": "Iraola",
+        "dateOfBirth": "1982-06-22",
+        "nationality": "Spain",
+        "contract": {
+          "start": "2023-07",
+          "until": "2026-06"
+        }
+      },
+      "squad": [
+        {
+          "id": 121765,
+          "name": "Đorđe Petrović",
+          "birthDate": "1999-10-08",
+          "nationality": "Serbia",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 131127,
+          "name": "Will Dennis",
+          "birthDate": "2000-07-10",
+          "nationality": "England",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "GK"
+        },
+        {
+          "id": 227046,
+          "name": "Veljko Milosavljević",
+          "birthDate": "2007-06-28",
+          "nationality": "Serbia",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "Defence"
+        },
+        {
+          "id": 273757,
+          "name": "Remy Rees-Dottin",
+          "birthDate": "2006-03-06",
+          "nationality": "England",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 227048,
+          "name": "Álex Jiménez",
+          "birthDate": "2005-05-08",
+          "nationality": "Spain",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 204241,
+          "name": "Eli Kroupi",
+          "birthDate": "2006-06-23",
+          "nationality": "France",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 183583,
+          "name": "Julio Soler",
+          "birthDate": "2005-02-16",
+          "nationality": "Argentina",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 176789,
+          "name": "Ben Doak",
+          "birthDate": "2005-11-11",
+          "nationality": "Scotland",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 161088,
+          "name": "Alex Scott",
+          "birthDate": "2003-08-21",
+          "nationality": "England",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 137047,
+          "name": "Amine Adli",
+          "birthDate": "2000-05-10",
+          "nationality": "Morocco",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 135482,
+          "name": "Adrien Truffert",
+          "birthDate": "2001-11-20",
+          "nationality": "France",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 131260,
+          "name": "Evanilson",
+          "birthDate": "1999-10-06",
+          "nationality": "Brazil",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 113335,
+          "name": "Julian Araujo",
+          "birthDate": "2001-08-13",
+          "nationality": "Mexico",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 98745,
+          "name": "Bafodé Diakité",
+          "birthDate": "2001-01-06",
+          "nationality": "France",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 82145,
+          "name": "James Hill",
+          "birthDate": "2002-01-10",
+          "nationality": "England",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 77596,
+          "name": "Tyler Adams",
+          "birthDate": "1999-02-14",
+          "nationality": "USA",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 46046,
+          "name": "Marcos Senesi",
+          "birthDate": "1997-05-10",
+          "nationality": "Argentina",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 34495,
+          "name": "Ryan Christie",
+          "birthDate": "1995-02-22",
+          "nationality": "Scotland",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 33132,
+          "name": "Enes Ünal",
+          "birthDate": "1997-05-10",
+          "nationality": "Turkey",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 8231,
+          "name": "Adam Smith",
+          "birthDate": "1991-04-29",
+          "nationality": "England",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "DF"
+        },
+        {
+          "id": 7561,
+          "name": "Justin Kluivert",
+          "birthDate": "1999-05-05",
+          "nationality": "Netherlands",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 6396,
+          "name": "Marcus Tavernier",
+          "birthDate": "1999-03-22",
+          "nationality": "England",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "MF"
+        },
+        {
+          "id": 4417,
+          "name": "Antoine Semenyo",
+          "birthDate": "2000-01-07",
+          "nationality": "Ghana",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 4321,
+          "name": "David Brooks",
+          "birthDate": "1997-07-08",
+          "nationality": "Wales",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "FW"
+        },
+        {
+          "id": 3327,
+          "name": "Lewis Cook",
+          "birthDate": "1997-02-03",
+          "nationality": "England",
+          "teamId": 1044,
+          "leagueId": 2021,
+          "position": "MF"
+        }
+      ],
+      "staff": [],
+      "lastUpdated": "2024-08-29T08:54:34Z"
+    }
+  ]
+}
