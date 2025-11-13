@@ -58,20 +58,7 @@ Promise.all([fetchJSON("fullplayers25"), fetchJSON("solution25")]).then(
     // Input elementua lortu
     //const myInput = document.getElementById("myInput");
 
-    //horren ordez, autocomplete funtzioari deituko diogu
-    autocomplete(document.getElementById("myInput"), game)
-
-    // Enter sakatzean addRow deitzea
-    myInput.addEventListener("keydown", (event) => {
-      if (event.key === "Enter") {
-
-        //ORAIN enter sakatzean inputa id bilakatzen du eta addRow(id) deitzen du.
-        const selectedPlayer = game.players.find(p => {
-          return p.name.toLowerCase() === myInput.value.toLowerCase()
-        })
-
-        myInput.value = ''; // input garbitu
-      }
-    });
+    //horren ordez, autocomplete funtzioari deituko diogu (bertan egiten da addRow deia)
+    autocomplete(document.getElementById("myInput"), game);
   }
 );

@@ -29,15 +29,19 @@ function autocomplete(inp, game) {
         /*for each item in the array...*/
         for (i = 0; i < players.length; i++) {
             /*check if the item starts with the same letters as the text field value:*/
-            if ( players[i].name.toUpperCase().startsWith(val.toUpperCase()) ) {
+            if ( players[i].name.toUpperCase().includes(val.toUpperCase()) ) {
 
                 b = document.createElement("DIV");
                 b.classList.add('flex', 'items-start', 'gap-x-3', 'leading-tight', 'uppercase', 'text-sm');
                 b.innerHTML = `<img src="https://cdn.sportmonks.com/images/soccer/teams/${players[i].teamId % 32}/${players[i].teamId}.png"  width="28" height="28">`;
 
                 /*make the matching letters bold:*/
+                let startIndex = players[i].name.toUpperCase().indexOf(val.toUpperCase());
+                let endIndex = startIndex + val.length;
                 b.innerHTML += `<div class='self-center'>
-                                    <span class='font-bold'>${players[i].name.substr(0, val.length)}</span><span class>${players[i].name.substr(val.length)}</span>
+                                    <span>${players[i].name.substr(0, startIndex)}</span>
+                                    <span class='font-bold'>${players[i].name.substr(startIndex, val.length)}</span>
+                                    <span class>${players[i].name.substr(endIndex)}</span>
                                     <input type='hidden' name='name' value='${players[i].name}'>
                                     <input type='hidden' name='id' value='${players[i].id}'>
                                 </div>`;
@@ -55,7 +59,9 @@ function autocomplete(inp, game) {
                         return p.name === inp.value
                     })
 
-                    addRow(selectedPlayer.id)
+                    addRow(selectedPlayer.id);
+
+                    inp.value = ''; // input garbitu
                 });
                 a.appendChild(b);
             }
