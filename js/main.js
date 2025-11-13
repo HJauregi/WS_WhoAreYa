@@ -70,8 +70,6 @@ Promise.all([fetchJSON("fullplayers25"), fetchJSON("solution25")]).then(
           return p.name.toLowerCase() === myInput.value.toLowerCase()
         })
 
-        addRow(selectedPlayer.id)
-
         myInput.value = ''; // input garbitu
       }
     });
