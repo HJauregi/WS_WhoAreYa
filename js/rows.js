@@ -134,7 +134,9 @@ let setupRows = function (game) {
         const input = document.getElementById("myInput");
         input.value = "";
         const unekoSaiakera = game.guesses.length + 1;
-        input.placeholder = `Guess ${unekoSaiakera} of 8`;
+        if (unekoSaiakera < 9){
+            input.placeholder = `Guess ${unekoSaiakera} of 8`;
+        }
 
     }
     
