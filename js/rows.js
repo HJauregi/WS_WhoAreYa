@@ -1,6 +1,7 @@
 // YOUR CODE HERE :  
 // .... stringToHTML ....
 // .... setupRows .....
+// .... initState ....
 
 const delay = 350;
 const attribs = ['nationality', 'leagueId', 'teamId', 'position', 'birthdate']
@@ -107,7 +108,14 @@ let setupRows = function (game) {
         let playersNode = document.getElementById('players')
         playersNode.prepend(stringToHTML(child))
     }
+    function resetInput(){
+        const input = document.getElementById("myInput");
+        input.value = "";
+        const unekoSaiakera = game.guesses.length + 1;
+        input.placeholder = `Guess ${unekoSaiakera} of 8`;
 
+    }
+    
     let getPlayer = function (playerId) {
     
     const player = game.players.find(p => p.id === playerId);
@@ -120,6 +128,24 @@ let setupRows = function (game) {
     return player;
 };
 
+    function gameEnded(lastGuess){
+        if (lastGuess == game.solution.id){
+            return true;
+        }
+        if (game.guesses.length >= 8){
+            return true;
+        }
+        return false;
+    }
+        function success(){
+        unblur('success');
+    }
+
+    function gameOver(){
+        unblur('gameover');
+    }
+
+    resetInput();
 
     return /* addRow */ function (playerId) {
 
@@ -127,6 +153,21 @@ let setupRows = function (game) {
         console.log(guess)
 
         let content = setContent(guess)
+        game.guesses.push(playerId)
+        updateState(playerId)
+
+        resetInput();
+
+        if (gameEnded(playerId)) {
+            if (playerId == game.solution.id) {
+                success();
+            }
+            if (game.guesses.length == 8) {
+                gameOver();
+            }
+         }
+
+
         showContent(content, guess)
     }
 }
