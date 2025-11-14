@@ -11,7 +11,8 @@ import { higher, lower } from "./fragments.js"
 
 let setupRows = function (game) {
 
-
+    let [state, updateState] = initState('WAYgameState', game.solution.id);
+    
     function leagueToFlag(leagueId) {
       const leagueMap = {
         564: "es1",
