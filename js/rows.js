@@ -3,8 +3,6 @@
 // .... setupRows .....
 // .... initState ....
 
-import { initState } from "./stats.js";
-
 const delay = 350;
 const attribs = ['nationality', 'leagueId', 'teamId', 'position', 'birthdate']
 import { stringToHTML } from "./fragments.js";
@@ -12,8 +10,6 @@ import { higher, lower } from "./fragments.js"
 
 
 let setupRows = function (game) {
-
-    let [state, updateState] = initState('WAYgameState', game.solution.id);
     
     function leagueToFlag(leagueId) {
       const leagueMap = {
@@ -130,68 +126,21 @@ let setupRows = function (game) {
         let playersNode = document.getElementById('players')
         playersNode.prepend(stringToHTML(child))
     }
-    function resetInput(){
-        const input = document.getElementById("myInput");
-        input.value = "";
-        const unekoSaiakera = game.guesses.length + 1;
-        if (unekoSaiakera < 9){
-            input.placeholder = `Guess ${unekoSaiakera} of 8`;
-        }
 
-    }
-    
-    let getPlayer = function (playerId) {
+       let getPlayer = function (playerId) {
     
     const player = game.players.find(p => p.id === playerId);
-
     if (!player) {
         console.error(`Ez da jokalaria aurkitu ID honekin: ${playerId}`);
         return null;
     }
-
     return player;
 };
 
-    function gameEnded(lastGuess){
-        if (lastGuess == game.solution.id){
-            return true;
-        }
-        if (game.guesses.length >= 8){
-            return true;
-        }
-        return false;
-    }
-        function success(){
-        unblur('success');
-    }
-
-    function gameOver(){
-        unblur('gameover');
-    }
-
-    resetInput();
-
-    return /* addRow */ function (playerId) {
-
+     return /* addRow */ function (playerId) {
         let guess = getPlayer(playerId)
         console.log(guess)
-
         let content = setContent(guess)
-        game.guesses.push(playerId)
-        updateState(playerId)
-
-        resetInput();
-
-        if (gameEnded(playerId)) {
-            if (playerId == game.solution.id) {
-                success();
-            }
-            if (game.guesses.length == 8) {
-                gameOver();
-            }
-         }
-
-
         showContent(content, guess)
     }
 }
